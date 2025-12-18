@@ -5,3 +5,5 @@
 | massage interface | location with text interface| ghost mode |
 ## Architecture of the LunerLinker
 <img width="1821" height="1445" alt="Screenshot 2025-09-22 105848" src="https://github.com/user-attachments/assets/63cc2dff-615d-4fed-88e7-dfc132378717" />
+![lunerlinker_circuit_diagram](https://github.com/user-attachments/assets/a7e5b352-8187-476a-af39-6aedaa871c4c)
+<img width="2529" height="1994" alt="device_3d_model jpg" src="https://github.com/user-attachments/assets/6148b304-51b9-4be6-99c0-123ee14bfd8d" />
